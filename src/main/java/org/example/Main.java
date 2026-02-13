@@ -7,7 +7,7 @@ public class Main {
 
         IO.println(String.format("Hello and welcome!"));
 
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 10; i++) {
 
             IO.println("i = " + i);
         }
